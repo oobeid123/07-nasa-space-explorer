@@ -34,7 +34,6 @@ body {
   color: var(--nasa-white);
   background-color: var(--nasa-blue-dark);
   background-image: linear-gradient(180deg, var(--nasa-blue-dark) 0%, #0a1224 60%, #05080f 100%);
-  background-attachment: fixed;
   min-height: 100vh;
   padding: 20px;
 }
